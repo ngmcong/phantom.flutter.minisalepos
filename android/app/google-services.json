@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361450146241",
+    "project_id": "minisalepos",
+    "storage_bucket": "minisalepos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361450146241:android:af55256bb56785c6c3c740",
+        "android_client_info": {
+          "package_name": "com.phantom.minisalepos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeA54g_rHL711iScBnewS16_i-MdNJ1gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
